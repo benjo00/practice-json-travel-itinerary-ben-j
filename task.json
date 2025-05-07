@@ -24,6 +24,19 @@
             {
                 "rolling down hills": 11, 
             "tapas": 12
+    },
+    {
+        "japan": {
+            "arrival date":"2030-09-12",
+            "departure date": "2028-10-05",
+            "transportation": "canoe",
+            "activities": [
+                {
+                    "visiting temples": 8,
+                    "eating sushi": 10
+                }
+            ]
+        }
     }
 ]
 }
