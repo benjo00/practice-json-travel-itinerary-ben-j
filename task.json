@@ -1,0 +1,50 @@
+{
+    "trips": [
+        {
+            "hawaii": {
+        "arrival date": "2026-02-28",
+        "departure date": "2026-02-28",
+        "activities": [
+    
+        {
+            "walking": 10,
+     
+     "seeing things": 9
+        }
+    ]
+        }
+},
+    
+    {
+        "spain": {
+        "arrival date": "2027-05-09",
+        "departure date": "2027-05-09",
+        "activities":[
+        
+            {
+                "rolling down hills": 11, 
+            "tapas": 12
+    }
+]
+}
+    }
+    ],
+    
+        "travelers": [ {
+
+        "name": "bob jobob",
+        "contact": {
+            "email": "bobbyjobobobo@jobob.com",
+            "phone": 6364567890
+        }
+    },
+           {  "name": "janey bojaney",
+            "contact": {
+                "email":"janeybojaeny@janebo.com",
+                "phone": 3149087654
+                }
+    
+        }
+    ]
+        
+}
